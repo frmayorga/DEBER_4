@@ -44,3 +44,13 @@ Teniendo en cuenta que el signo ║ significa que dos resistencias estan en para
 - En la figura (c): R1 ║ [( R2 ║ R3) + (R4 ║ R5)]
 
 
+
+**7)Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.**
+
+![image](https://user-images.githubusercontent.com/93361435/145445300-25da9a58-3b4c-4286-a829-9cdd98dca115.png)
+
+Siguiendo la direccion de la corriente desde la fuente realizamos el boceto del circuito impreso.
+
+![image](https://user-images.githubusercontent.com/93361435/145445187-3d693e9b-5823-4b6c-91d4-5ed5f941a362.png)
+
+
