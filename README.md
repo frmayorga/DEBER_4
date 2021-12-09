@@ -37,5 +37,10 @@
 
 ![image](https://user-images.githubusercontent.com/93361435/145430481-42e0e8d8-4245-4cdb-870c-7b2388459049.png)
 
+Teniendo en cuenta que el signo ║ significa que dos resistencias estan en paralelo, y el signo + que dos resistencias estan en serie. Analizamos en un principio la dirección de la corriente, y despues el camino que sigue con el fin de determinar que resistencias están en serie y cuales están en paralelo.
+
+- En la figura (a): R1 + R4 +(R2 ║ R3)
+- En la figura (b): R1 + (R2 ║ R3 ║ R4)
+- En la figura (c): R1 ║ [( R2 ║ R3) + (R4 ║ R5)]
 
 
