@@ -43,6 +43,15 @@ Teniendo en cuenta que el signo ║ significa que dos resistencias estan en para
 - En la figura (b): R1 + (R2 ║ R3 ║ R4)
 - En la figura (c): R1 ║ [( R2 ║ R3) + (R4 ║ R5)]
 
+**5) Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.**
+
+![image](https://user-images.githubusercontent.com/93361435/145504242-8f8d329e-7c24-45ce-9d1e-5ab0c4ee708e.png)
+
+Siguiendo desde A hasta B tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/145504325-622fa68b-7785-4a92-b59b-9d639314d6ce.png)
+
+Como no nos es posible determinar los valores de la resistencia solamente se realizo el diagrama esquematico del circuito impreso.
 
 **7)Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.**
 
