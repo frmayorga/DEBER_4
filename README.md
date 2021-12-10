@@ -94,5 +94,5 @@ Para el circuito (a) lo que se hizo es calcular la resistencia total seguido la 
 
 Para el circuito (b) se realiza el mismo procedimiento a diferencia de que para el voltaje de R2, R3, R4, se utilizo una resistencia equivalente y se aplico la formula de divisor de voltaje
 
-![image](https://user-images.githubusercontent.com/93361435/145585551-b53775e5-8df3-46b5-ad8b-a4c92d00a898.png)
+![image](https://user-images.githubusercontent.com/93361435/145585842-a8dfe72e-2a25-48ad-810c-0cdadd0c4552.png)
 
