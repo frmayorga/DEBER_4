@@ -94,5 +94,13 @@ Para el circuito (a) lo que se hizo es calcular la resistencia total seguido la 
 
 Para el circuito (b) se realiza el mismo procedimiento a diferencia de que para el voltaje de R2, R3, R4, se utilizo una resistencia equivalente y se aplico la formula de divisor de voltaje
 
-![image](https://user-images.githubusercontent.com/93361435/145585842-a8dfe72e-2a25-48ad-810c-0cdadd0c4552.png)
+![image](https://user-images.githubusercontent.com/93361435/145615730-ecc67f3d-3282-40c8-812c-d16ee13f51b1.png)
+
+Para el circuito (c) se ha identificado los pares en paralelo y se uso la ley de ohm para determinar la corriente total y la corriente que pasa por cada resistor: 
+
+![image](https://user-images.githubusercontent.com/93361435/145617071-5a5f9f0d-6602-496e-b8fa-1dc02a275419.png)
+
+
+
+
 
