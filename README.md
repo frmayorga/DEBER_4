@@ -84,4 +84,13 @@ Para el circuito C tenemos que los pares de resistencias 2 y 3; 4 y 5 estan en p
 
 Obteniendo como resistencia total 0.852 kOhmios o a su vez 852 Ohmios 
 
+**11)Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje**
+
+![image](https://user-images.githubusercontent.com/93361435/145577288-5f1d560d-30a6-4ad7-a20c-d2dd8d205621.png)
+
+Para el circuito (a) lo que se hizo es calcular la resistencia total seguido la corriente total con el uso de la ley de Ohm, las caidas de voltaje de cada resistor se calcularon con la formula de divisores de voltaje y por el ultimo el calculo de cada corriente se hizo con la ley de ohm
+
+![image](https://user-images.githubusercontent.com/93361435/145576942-c5c6e7f5-dae0-4d1e-8fad-de8665dd4360.png)
+
+
 
