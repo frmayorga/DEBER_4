@@ -19,6 +19,8 @@
 
 # EJERCICIOS
 
+## CAPITULO 7
+
 **1)Visualice y trace las siguientes combinaciones en serie-paralelo:**
 
 (a) R1 en serie con la combinación en paralelo de R2 y R3
@@ -118,6 +120,33 @@ La suma de estos dos equivalentes nos dan RT = 6.02 ohmios
 Para encontrar el voltaje en los nodos tenemos en cuenta la formula de divisor de voltaje, aplicable en circuitos en serie, como sabemos el voltaje que fluye despues de pasar por el resistor es fuente de voltaje - caida de voltaje, obteniendo los siguientes resultados para cada nodo:
 
 ![image](https://user-images.githubusercontent.com/93361435/146099510-5eca1062-5147-4917-9229-1c11eb7dd5a2.png)
+
+Para el nodo A observamos que el voltaje es el mismo, para el nodo B debemos realizar el calculo de voltaje que sale de la resistencia 2 y restar de 100 V, para el nodo C solo debemos calcular el voltaje que sale del resistor 3 y restar del voltaje del nodo B, para el calculo del volataje en el nodo D es necesario realizar el calculo de divisor de corriente igual que para el nodo B.
+
+
+**17) En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?**
+
+![image](https://user-images.githubusercontent.com/93361435/146101603-8ab9ba4a-2a34-449b-8098-201883d10b7e.png)
+
+Podemos realizar la medición en los nodos respecto a tierra, en este caso al nodo A y en el nodo B la diferencia de estas nos resulta en la caida de voltaje del resistor.
+
+
+
+
+
+
+
+
+
+
+## CAPITULO 8
+
+
+
+
+
+
+
 
 
 
