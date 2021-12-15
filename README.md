@@ -101,7 +101,23 @@ Para el circuito (c) se ha identificado los pares en paralelo y se uso la ley de
 
 ![image](https://user-images.githubusercontent.com/93361435/145617071-5a5f9f0d-6602-496e-b8fa-1dc02a275419.png)
 
+**15) Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.**
 
+![image](https://user-images.githubusercontent.com/93361435/146098838-d5035dfa-7f3e-4f8a-84bb-6b69d2a130fd.png)
+
+Para realizar el voltaje de nodos se ha realizado resistencias equivales tomando en cuenta y reescribiendo el circuito tenemos que:
+
+![image](https://user-images.githubusercontent.com/93361435/146099797-a7dc6b4a-a795-4f50-822f-eb7c496f48de.png)
+
+R1 esta en paralelo con la combinación en serie R2 y R3 su equivalente lo llamamos Re1.
+
+R4 esta en paralelo con la combinación en serie R5 y R6 su equivalente lo llamamos Re2
+
+La suma de estos dos equivalentes nos dan RT = 6.02 ohmios
+
+Para encontrar el voltaje en los nodos tenemos en cuenta la formula de divisor de voltaje, aplicable en circuitos en serie, como sabemos el voltaje que fluye despues de pasar por el resistor es fuente de voltaje - caida de voltaje, obteniendo los siguientes resultados para cada nodo:
+
+![image](https://user-images.githubusercontent.com/93361435/146099510-5eca1062-5147-4917-9229-1c11eb7dd5a2.png)
 
 
 
