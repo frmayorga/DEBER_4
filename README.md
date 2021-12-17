@@ -107,9 +107,27 @@ Para el circuito (c) se ha identificado los pares en paralelo y se uso la ley de
 
 ![image](https://user-images.githubusercontent.com/93361435/146594964-d50968d8-9c39-4975-9df5-7c26aa04641f.png)
 
+*PRIMERA COMBINACION* 
 
+SW1 CERRADO, SW2 ABIERTO: En este caso solo se tomaria en cuenta a la resistencia 2 ya que los dos interruptores estan interrumpidos por lo tanto RT = 220 Ohmios 
 
+*SEGUNDA COMBINACION*
 
+SW1 CERRADO, SW2 CERRADO: En este caso la resistencia total es igual a la suma de R2 Y R3 en paralelo 
+
+![image](https://user-images.githubusercontent.com/93361435/146614164-2267eb72-6bd1-4d4c-aec3-b5d75d78121f.png)
+
+*TERCERA COMBINACION*
+
+SW1 ABIERTO, SW2 ABIERTO: En este caso la resistencia total seria igual a R1 + R2 
+
+![image](https://user-images.githubusercontent.com/93361435/146614625-5998cace-ea18-4a17-b05c-f87a7207d8b2.png)
+
+*CUARTA COMBINACION*
+
+SW1 ABIERTO, SW2 CERRADO: En este caso tenemos en cuenta las tres resistencias por lo tanto: 
+
+![image](https://user-images.githubusercontent.com/93361435/146614480-aaac35bc-7c63-4a00-981f-31636e03ca24.png)
 
 **15) Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.**
 
@@ -173,7 +191,7 @@ Utilizamos la ley de Ohm como sabemos podemos sustituir la fuente de corriente p
 
 Debemos utilizar una fuente de voltaje de 720 voltios y una resistencia de 1.2 kilo-ohmios
 
-**7) Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69. **
+**7) Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.**
 
 ![image](https://user-images.githubusercontent.com/93361435/146596055-ab01bdae-8c80-4829-8280-71fa88500278.png)
 
@@ -185,7 +203,27 @@ Debemos utilizar una fuente de voltaje de 720 voltios y una resistencia de 1.2 k
 
 ![image](https://user-images.githubusercontent.com/93361435/146596089-eea4df1d-f66a-474c-802e-feffc5fdd848.png)
 
+Reemplazamos con la resistencia equivalente de la fuente de corriente la cual es infinito y corresponde a un circuito abierto: 
 
+![image](https://user-images.githubusercontent.com/93361435/146615009-ddf57a5b-10e6-40b7-9780-1645922f236a.png)
+
+Realizamos el calculo de la corriente total con el fin de utilizar el divisor de corriente en R3 
+
+![image](https://user-images.githubusercontent.com/93361435/146616697-c0ba96f4-812b-42c1-a685-e22456266661.png)
+
+Ahora realizamos el calculo sin la fuente de voltaje siendo su resistencia equivalente 0 entonces: 
+
+![image](https://user-images.githubusercontent.com/93361435/146616843-c0be5d75-0c28-4f98-8d23-c719a4193945.png)
+
+Calculamos la resistencia total para utilizar un divisor de corriente: 
+
+![image](https://user-images.githubusercontent.com/93361435/146617379-0be39391-3682-4081-8119-6cbac1e3e99a.png)
+
+Debido a que las corrientes no estan en el mismo sentido se restan: 
+
+![image](https://user-images.githubusercontent.com/93361435/146617572-e60359d9-5dc7-4770-96d1-d21e05f82868.png)
+
+Siendo de 1.58 mA la corriente que pasa por R3.
 
 **11) En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kohmios, ¿cuál es el intervalo del voltaje de referencia?**
 
