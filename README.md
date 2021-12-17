@@ -103,6 +103,14 @@ Para el circuito (c) se ha identificado los pares en paralelo y se uso la ley de
 
 ![image](https://user-images.githubusercontent.com/93361435/145617071-5a5f9f0d-6602-496e-b8fa-1dc02a275419.png)
 
+**13) Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.**
+
+![image](https://user-images.githubusercontent.com/93361435/146594964-d50968d8-9c39-4975-9df5-7c26aa04641f.png)
+
+
+
+
+
 **15) Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.**
 
 ![image](https://user-images.githubusercontent.com/93361435/146098838-d5035dfa-7f3e-4f8a-84bb-6b69d2a130fd.png)
@@ -141,9 +149,47 @@ Podemos realizar la medición en los nodos respecto a tierra, en este caso al no
 
 ## CAPITULO 8
 
+**1) Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 ohmios. Conviértala en una fuente de corriente equivalente**
+
+Para convertir a una fuente equivalente utilizamos la ley de ohm: 
+
+![image](https://user-images.githubusercontent.com/93361435/146595271-56fc0aaf-e2ff-4234-9c86-7b03715b391a.png)
+
+La sustituimos con una fuente de corriente de 6 A y una resistencia de 50 Ohmios. 
+
+**3) Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?**
+
+Utilizando la ley de Ohm tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/146595622-34244a00-a38c-41f4-aede-da61a0453234.png)
+
+Teniendo una resistencia interna de 200 mili-Ohmios 
+
+**5) Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kohmios. Conviértala en una fuente de voltaje equivalente. **
+
+Utilizamos la ley de Ohm como sabemos podemos sustituir la fuente de corriente por una de voltaje conociendo el valor de la fuente de corriente y la resistencia: 
+
+![image](https://user-images.githubusercontent.com/93361435/146595954-73aaae5e-03a7-49b4-8e22-5d87bfb89038.png)
+
+Debemos utilizar una fuente de voltaje de 720 voltios y una resistencia de 1.2 kilo-ohmios
+
+**7) Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69. **
+
+![image](https://user-images.githubusercontent.com/93361435/146596055-ab01bdae-8c80-4829-8280-71fa88500278.png)
 
 
 
+
+
+**9) Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70**
+
+![image](https://user-images.githubusercontent.com/93361435/146596089-eea4df1d-f66a-474c-802e-feffc5fdd848.png)
+
+
+
+**11) En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kohmios, ¿cuál es el intervalo del voltaje de referencia?**
+
+![image](https://user-images.githubusercontent.com/93361435/146596153-56dfb5b8-369e-4101-9ead-b47be80b0b02.png)
 
 
 
