@@ -183,7 +183,7 @@ Utilizando la ley de Ohm tenemos:
 
 Teniendo una resistencia interna de 200 mili-Ohmios 
 
-**5) Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kohmios. Conviértala en una fuente de voltaje equivalente. **
+**5) Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kohmios. Conviértala en una fuente de voltaje equivalente.**
 
 Utilizamos la ley de Ohm como sabemos podemos sustituir la fuente de corriente por una de voltaje conociendo el valor de la fuente de corriente y la resistencia: 
 
