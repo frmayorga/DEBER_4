@@ -195,9 +195,29 @@ Debemos utilizar una fuente de voltaje de 720 voltios y una resistencia de 1.2 k
 
 ![image](https://user-images.githubusercontent.com/93361435/146596055-ab01bdae-8c80-4829-8280-71fa88500278.png)
 
+Reemplazamos la fuente de tres voltios con su resistencia equivalente R = 0:
 
+![image](https://user-images.githubusercontent.com/93361435/146651377-d785c48f-5e0f-4308-8f0b-e0a685583af2.png)
 
+Calculamos la resistencia total para utilizar un divisor de corriente:
 
+![image](https://user-images.githubusercontent.com/93361435/146651888-5b048ac9-277c-455a-b4db-07da945591bd.png)
+
+Debido a que R3 esta en serie con la combinación en paralelo de R4 Y R5 debemos utilizar dos divisores de voltaje: 
+
+Ahora reemplazamos la fuente de 2V por un cable: 
+
+![image](https://user-images.githubusercontent.com/93361435/146651944-d5f8eb7e-64a1-40a4-b013-56d52043302a.png)
+
+Debemos calcular la resistencia total y seguido utilizamos el divisor de corriente en R5: 
+
+![image](https://user-images.githubusercontent.com/93361435/146652048-8017dd56-39ab-4842-a4c3-f0db1e2e3b80.png)
+
+En este caso no es necesario usar otro divisor de voltaje ya que R5 no esta un una combinacion serie-paralelo como la anterior, por lo tanto la corriente que pasa por el resistor es igual a la suma de las dos corrientes ya encontradas ya que sus sentidos son los mismos: 
+
+![image](https://user-images.githubusercontent.com/93361435/146652125-24a3500f-796d-433a-a792-085d62473edb.png)
+
+Siendo la corriente que pasa por el resistor de 845 micro amperios.
 
 **9) Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70**
 
