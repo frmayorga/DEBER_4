@@ -202,6 +202,12 @@ la carga de 47 kilo ohms provocara una menor disminucion de voltaje pues entre m
 
 
 
+#### 35)   
+![image](https://user-images.githubusercontent.com/93398718/146826849-cff959eb-6b83-458d-8f59-411cfa38065e.png)  
+
+
+
+
 ## CAPITULO 8
 
 **1) Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 ohmios. Conviértala en una fuente de corriente equivalente**
