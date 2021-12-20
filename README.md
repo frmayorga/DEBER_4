@@ -189,7 +189,14 @@ la carga de 47 kilo ohms provocara una menor disminucion de voltaje pues entre m
 ![image](https://user-images.githubusercontent.com/93398718/146736426-b8e3dfd6-1002-490c-aa15-875f0cf84fd3.png)  
 
 
-#### 31) Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
+#### 31) Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.  
+![image](https://user-images.githubusercontent.com/93398718/146819213-34c0f80c-6c9a-407b-b533-174fbec3e101.png)    
+![image](https://user-images.githubusercontent.com/93398718/146822540-caea3720-e5df-4849-9842-d89b60120014.png)  
+
+
+#### 33) La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
+
+![image](https://user-images.githubusercontent.com/93398718/146822704-533eb6a1-5b14-4d0d-816f-ce5890aa202d.png)  
 
 
 
