@@ -4,10 +4,11 @@
 
 ## OBJETIVO GENERAL 
 
-
+* Investigar acerca de los teoremas de circuitos y conversiones, también de los circuitos en serie-paralelo haciendo la respectiva revisión del libro de principios de circuitos eléctricos para resolver ejercicios y a su vez reforzar conocimientos adquiridos en clase. 
 
 ## OBJETIVOS ESPECIFICOS
 
+* Describir las características de un circuito serie-paralelo y además el método a seguir para resolver estos circuitos.
 
 
 # MARCO TEORICO
@@ -277,6 +278,19 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 ![image](https://user-images.githubusercontent.com/93361435/146596153-56dfb5b8-369e-4101-9ead-b47be80b0b02.png)
 
 
+
+
+# VIDEO
+
+
+
+# CONCLUSIONES
+
+- Un circuito serie-paralelo o también llamado circuito mixto: es una variación del circuito donde tenemos la combinación de elementos resistivos tanto en serie y paralelo, para poder resolverlo necesitamos reconocer las combinaciones en paralelo y en serie que existen en el circuito para despúes utilizar los métodos ya conocidos en la resolución del problema. 
+
+# BIBLIOGRAFIA
+
+- Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
 
 
 
