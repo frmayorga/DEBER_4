@@ -157,11 +157,13 @@ Para el nodo A observamos que el voltaje es el mismo, para el nodo B debemos rea
 Podemos realizar la medición en los nodos respecto a tierra, en este caso al nodo A y en el nodo B la diferencia de estas nos resulta en la caida de voltaje del resistor.
 
 
+#### 19) Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.  
+![image](https://user-images.githubusercontent.com/93398718/146713892-0731d849-297e-4e08-930f-74dab83c137f.png)  
+![image](https://user-images.githubusercontent.com/93398718/146718784-e8f93248-6053-4a94-812d-c1f2c8e8539a.png)
 
 
-
-
-
+#### 21) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.  
+![image](https://user-images.githubusercontent.com/93398718/146719012-49a8f829-628c-4ada-a4e5-7fd721a9c1c0.png)
 
 
 
