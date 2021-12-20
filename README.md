@@ -163,7 +163,32 @@ Podemos realizar la medición en los nodos respecto a tierra, en este caso al no
 
 
 #### 21) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.  
-![image](https://user-images.githubusercontent.com/93398718/146719012-49a8f829-628c-4ada-a4e5-7fd721a9c1c0.png)
+![image](https://user-images.githubusercontent.com/93398718/146719012-49a8f829-628c-4ada-a4e5-7fd721a9c1c0.png)  
+![image](https://user-images.githubusercontent.com/93398718/146729418-444727cf-5996-420d-8971-e13e293f9df5.png)  
+
+
+#### 23) Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB, BC y CD.
+
+![image](https://user-images.githubusercontent.com/93398718/146729681-a42ba97f-4753-49ee-bf9c-1c95d044bf67.png)  
+![image](https://user-images.githubusercontent.com/93398718/146732816-f1773ee9-9051-404c-8eb4-ce349d621aaf.png)  
+
+
+#### 25) Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
+
+![image](https://user-images.githubusercontent.com/93398718/146734911-63f2d7ee-c738-43de-a414-42da2b236d78.png)  
+
+
+#### 27) ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+
+la carga de 47 kilo ohms provocara una menor disminucion de voltaje pues entre mas grande es RL en comparacion con R2, menos se reduce el voltaje de salida.
+
+
+#### 29) En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
+![image](https://user-images.githubusercontent.com/93398718/146735689-36e3b43f-90c9-453f-ad17-25f4f1d77515.png)    
+![image](https://user-images.githubusercontent.com/93398718/146736426-b8e3dfd6-1002-490c-aa15-875f0cf84fd3.png)  
+
+
+#### 31) Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
 
 
 
