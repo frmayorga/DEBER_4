@@ -317,8 +317,20 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 
 
 #### 17) Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77. 
-![image](https://user-images.githubusercontent.com/93398718/146871834-9c7d1277-abc2-4eaf-84e1-d21b3b8bb5d8.png)
+![image](https://user-images.githubusercontent.com/93398718/146871834-9c7d1277-abc2-4eaf-84e1-d21b3b8bb5d8.png)  
+- primero elimino la resistencia Rl, luego procedo a determinar el valor de RTH y VTH  
+![image](https://user-images.githubusercontent.com/93398718/146974760-95344d15-345f-4e32-82ff-46bc4a844030.png)  
+- para RTH se elimina la fuente del circuito y se calcula la resistencia total  
+![image](https://user-images.githubusercontent.com/93398718/146974971-1751d569-b010-48b5-885b-a05715e293f1.png)  
+![image](https://user-images.githubusercontent.com/93398718/146976634-6257e6e6-091e-46c0-a77b-f56341716b3a.png)  
+- para determinar el valor de VTH realizo analisis nodal donde el voltaje en el nodo 2 es VTH.  
+![image](https://user-images.githubusercontent.com/93398718/146977841-12349b60-8c9c-4967-ae81-476a79260c03.png)  
+- aplicamos Rl a nuestro circuito simplificado para hallar el valor de la corriente en esa resistencia:
+![image](https://user-images.githubusercontent.com/93398718/146978451-8a55f8ef-8023-4c82-becc-835d6f402707.png)  
+![image](https://user-images.githubusercontent.com/93398718/146979126-fb1b5663-f1ae-4044-a9e1-0e91c6b3dbca.png)  
 
+#### 21) Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+![image](https://user-images.githubusercontent.com/93398718/146979624-7a967e0a-c060-4da9-94f6-29b500d6569d.png)
 
 
 
