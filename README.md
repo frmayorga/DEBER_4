@@ -312,7 +312,15 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 ![image](https://user-images.githubusercontent.com/93398718/146859642-6717f1f7-a966-445e-b4e2-756d7cd88d47.png)    
   
 #### 15) La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
-![image](https://user-images.githubusercontent.com/93398718/146859778-87bb2a48-0146-4679-99eb-fa7f53822a5d.png)
+![image](https://user-images.githubusercontent.com/93398718/146859778-87bb2a48-0146-4679-99eb-fa7f53822a5d.png)  
+
+![image](https://user-images.githubusercontent.com/93398718/146871708-860efd5d-4e2d-40fd-8115-03a056c6eb44.png)  
+
+
+#### 17) Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77. 
+![image](https://user-images.githubusercontent.com/93398718/146871834-9c7d1277-abc2-4eaf-84e1-d21b3b8bb5d8.png)
+
+
 
 
 # VIDEO
