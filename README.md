@@ -293,6 +293,11 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 ![image](https://user-images.githubusercontent.com/93361435/146596153-56dfb5b8-369e-4101-9ead-b47be80b0b02.png)
 
 
+#### 13) Determine el voltaje del punto A al punto B en la figura 8-73.
+
+![image](https://user-images.githubusercontent.com/93398718/146840472-f3482b5e-a3b3-4823-9a2b-6a5bfa16b076.png)
+
+
 
 
 # VIDEO
