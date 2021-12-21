@@ -325,12 +325,30 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 ![image](https://user-images.githubusercontent.com/93398718/146976634-6257e6e6-091e-46c0-a77b-f56341716b3a.png)  
 - para determinar el valor de VTH realizo analisis nodal donde el voltaje en el nodo 2 es VTH.  
 ![image](https://user-images.githubusercontent.com/93398718/146977841-12349b60-8c9c-4967-ae81-476a79260c03.png)  
-- aplicamos Rl a nuestro circuito simplificado para hallar el valor de la corriente en esa resistencia:
+- aplicamos Rl a nuestro circuito simplificado para hallar el valor de la corriente en esa resistencia:  
+
 ![image](https://user-images.githubusercontent.com/93398718/146978451-8a55f8ef-8023-4c82-becc-835d6f402707.png)  
 ![image](https://user-images.githubusercontent.com/93398718/146979126-fb1b5663-f1ae-4044-a9e1-0e91c6b3dbca.png)  
 
 #### 21) Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
 ![image](https://user-images.githubusercontent.com/93398718/146979624-7a967e0a-c060-4da9-94f6-29b500d6569d.png)
+
+- elimino RL y reescribo elcircuito para que sea mas entendible:  
+![image](https://user-images.githubusercontent.com/93398718/147009045-8ef77f2b-a052-473f-9572-2ae03d5253fd.png)  
+- para determinar VTH hago lo siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/147009581-cd3357cd-4e63-4ac2-860f-2465bba6f8fa.png)  
+-para encontrar RTH elimino la fuente de voltaje y reescribo el circuito para que sea mas entendible:    
+![image](https://user-images.githubusercontent.com/93398718/147009885-842f7da3-1755-4f1e-ad9c-67b7be693668.png)  
+- donde la resistencia RTH es la siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/147010224-951e70c3-f907-4ae3-866c-a792ceb83357.png)  
+- escribo el nuevo circuito y conecto RL para determinar la corriente:  
+![image](https://user-images.githubusercontent.com/93398718/147010491-52bd1e56-ebd0-46cd-aed2-bc73cbbe9c65.png)  
+![image](https://user-images.githubusercontent.com/93398718/147010698-e4d7d417-a708-42a4-9c0d-3e3d220e64e6.png)  
+
+
+#### 23) Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.  
+![image](https://user-images.githubusercontent.com/93398718/147010974-8dba8d57-3bca-4f4f-893d-810c9609fe53.png)  
+
 
 
 
