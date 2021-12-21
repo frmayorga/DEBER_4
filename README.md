@@ -297,7 +297,22 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 
 ![image](https://user-images.githubusercontent.com/93398718/146840472-f3482b5e-a3b3-4823-9a2b-6a5bfa16b076.png)
 
+- elimino las fuentes de voltaje de 75v y 50v:  
+ ![image](https://user-images.githubusercontent.com/93398718/146857591-8f2ae1e6-b5e9-41cd-9082-e2e4b93db40b.png)
+- de estamanera se procede con los calculos de el voltaje en R4 pues luego de analizar el ejercicio se determino que en esa resistencia se encuentra el votaje pedido
+![image](https://user-images.githubusercontent.com/93398718/146858163-d4b27309-72a0-450e-bdbc-059f12b55b5b.png)  
+- elimino las fuentes de voltaje de 100v y 50v:  
+![image](https://user-images.githubusercontent.com/93398718/146858297-bd00f99d-9d96-47b3-96dc-3e68450be3b0.png)  
+![image](https://user-images.githubusercontent.com/93398718/146858571-ee6a929f-2a6b-4fde-b68c-6ee85e8ddefa.png)  
+- elimino las fuentes de voltaje de 100v y 75v:  
+![image](https://user-images.githubusercontent.com/93398718/146859278-cedfc5ac-0ad8-4da0-9b97-7d578aa6f284.png)    
+![image](https://user-images.githubusercontent.com/93398718/146858818-ca4cd1f6-53ac-406f-bce1-48fe87d7eca4.png)  
 
+- sumo los voltajes obtenidos y el resultado resto de la fuente de 100v esto sucede por la caida de voltaje:  
+![image](https://user-images.githubusercontent.com/93398718/146859642-6717f1f7-a966-445e-b4e2-756d7cd88d47.png)    
+  
+#### 15) La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+![image](https://user-images.githubusercontent.com/93398718/146859778-87bb2a48-0146-4679-99eb-fa7f53822a5d.png)
 
 
 # VIDEO
