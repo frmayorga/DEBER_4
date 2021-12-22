@@ -346,9 +346,28 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 ![image](https://user-images.githubusercontent.com/93398718/147010698-e4d7d417-a708-42a4-9c0d-3e3d220e64e6.png)  
 
 
-#### 23) Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.  
-![image](https://user-images.githubusercontent.com/93398718/147010974-8dba8d57-3bca-4f4f-893d-810c9609fe53.png)  
-
+#### 23) Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.    
+![image](https://user-images.githubusercontent.com/93398718/147010974-8dba8d57-3bca-4f4f-893d-810c9609fe53.png)      
+- a)    
+-  para hallar RN retiro RL y la fuente de modo que se obtiene lo siguiente:    
+![image](https://user-images.githubusercontent.com/93398718/147040675-5e11c70a-a533-44d3-b607-7de1b33c1d88.png)      
+- para IN se utiliza el divisor de corriente:  
+![image](https://user-images.githubusercontent.com/93398718/147040975-77717a32-bbf0-4d93-b9c6-0b568ff64b9c.png)      
+- b)  
+- para hallar RN retiro RL y la fuente de modo que se obtiene lo siguiente:   
+![image](https://user-images.githubusercontent.com/93398718/147041222-727f96b5-3bb1-4035-983f-c6a07fae9397.png)    
+- para calcular IN se realiza lo siguiente:    
+![image](https://user-images.githubusercontent.com/93398718/147041421-f6c446a0-fde9-4993-b8fe-13214def1a47.png)    
+- c)  
+-  para hallar RN retiro RL y la fuente de modo que se obtiene lo siguiente:   
+![image](https://user-images.githubusercontent.com/93398718/147041730-7de04ab2-a122-459f-b3f3-06abce1374ff.png)  
+- para calcular IN se realiza lo siguiente:    
+![image](https://user-images.githubusercontent.com/93398718/147041612-fe2cac16-23be-4f72-993c-3c5b2914eb67.png)  
+- d)  
+- para hallar RN retiro RL y la fuente de modo que se obtiene lo siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/147041927-bcc85fbe-31e4-48f8-b0c1-f13fd9f9f4df.png)  
+- para IN se utiliza el divisor de corriente:    
+![image](https://user-images.githubusercontent.com/93398718/147042093-cf90499b-67d8-4319-b9c8-b7f92ea80f4a.png)  
 
 
 
