@@ -17,6 +17,7 @@
 ![](https://github.com/frmayorga/DEBER_4/blob/main/deber%201%20parcial%202.jpg)
 
 
+![resumen cap8-parte 2](https://user-images.githubusercontent.com/93561706/147859865-b6ddf4b7-7b3d-42a6-9ba6-41398de94e99.png)
 
 # EJERCICIOS
 
