@@ -216,6 +216,8 @@ la carga de 47 kilo ohms provocara una menor disminucion de voltaje pues entre m
 
 ![image](https://user-images.githubusercontent.com/93561706/148024151-6a2c03e3-bdc8-4658-8c33-1a09fc8c9c74.png)
 
+![image](https://user-images.githubusercontent.com/93561706/148062482-20151380-c38a-4bf0-9277-462841326472.png)
+
 ### 43) Determine IT y VSALIDA en la figura 7-80.
 
 ![image](https://user-images.githubusercontent.com/93561706/148024204-8897d7ab-b86e-48ce-8b12-fe0d021a9a70.png)
