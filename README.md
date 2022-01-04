@@ -226,6 +226,9 @@ la carga de 47 kilo ohms provocara una menor disminucion de voltaje pues entre m
 
 ![image](https://user-images.githubusercontent.com/93561706/148024329-9a3fbab6-6bf6-4482-b7b8-9b13252b571a.png)
 
+![image](https://user-images.githubusercontent.com/93561706/148066092-319fe938-2272-4f0f-96b0-069a37e38001.png)
+
+
 ### 47) Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ, a 120,060 Ω, y los medidores a compresión disminuyen su resistencia en 60 mΩ, a 119.940 Ω, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga
 
 ![image](https://user-images.githubusercontent.com/93561706/148024412-e4d77097-7b58-4d97-bb8e-c2dac7fa4f3b.png)
