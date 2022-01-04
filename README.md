@@ -201,12 +201,56 @@ la carga de 47 kilo ohms provocara una menor disminucion de voltaje pues entre m
 ![image](https://user-images.githubusercontent.com/93398718/146822704-533eb6a1-5b14-4d0d-816f-ce5890aa202d.png)    
 
 
-
-
 #### 35)   
 ![image](https://user-images.githubusercontent.com/93398718/146826849-cff959eb-6b83-458d-8f59-411cfa38065e.png)  
 
+### 37) El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a). a) ¿Qué intervalo se deberá utilizar? b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
+![image](https://user-images.githubusercontent.com/93561706/148023921-fd78c424-cd1c-49c7-98e3-70efdb2bb083.png)
+
+### 39)  Para el circuito mostrado en la figura 7-77, calcule: a) La resistencia total entre las terminales de la fuente, b) La corriente total suministrada por la fuente, c) La corriente a través del resistor de 910 Ω, d) El voltaje desde el punto A hasta el punto B
+
+![image](https://user-images.githubusercontent.com/93561706/148024098-3bfba748-a684-40a2-a18b-cf1e072d0ac0.png)
+
+### 41) Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B
+
+![image](https://user-images.githubusercontent.com/93561706/148024151-6a2c03e3-bdc8-4658-8c33-1a09fc8c9c74.png)
+
+### 43) Determine IT y VSALIDA en la figura 7-80.
+
+![image](https://user-images.githubusercontent.com/93561706/148024204-8897d7ab-b86e-48ce-8b12-fe0d021a9a70.png)
+
+### 45) Repita el problema 44 para las siguientes condiciones a) SW3 y SW4 conectados a +12 V, SW1 y SW2 a tierra, b) SW3 y SW1 conectados a +12 V, SW2 y SW4 a tierra, c) Todos los interruptores conectados a +12 V
+
+![image](https://user-images.githubusercontent.com/93561706/148024329-9a3fbab6-6bf6-4482-b7b8-9b13252b571a.png)
+
+### 47) Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ, a 120,060 Ω, y los medidores a compresión disminuyen su resistencia en 60 mΩ, a 119.940 Ω, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga
+
+![image](https://user-images.githubusercontent.com/93561706/148024412-e4d77097-7b58-4d97-bb8e-c2dac7fa4f3b.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148024510-b07e1c96-144e-412e-9010-9a6e0348ca73.png)
+
+### 49) ¿Es correcta la lectura del voltímetro de la figura 7-84?
+
+![image](https://user-images.githubusercontent.com/93561706/148024550-a99324c3-c67b-413b-8668-56371e1a8756.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148024703-9175d34e-2952-41c1-9a86-aeb92f2a7d05.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148024741-f0c395f6-a072-49e5-808d-13f1498cc5b1.png)
+
+### 51) En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+
+![image](https://user-images.githubusercontent.com/93561706/148024797-3f59f620-d8dd-4ad5-a725-8ccd31c82275.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025052-f09b3a03-d2a4-4c29-86ac-48216b6d832c.png)
+
+### 53) Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+
+![image](https://user-images.githubusercontent.com/93561706/148025118-70c840b9-4044-4a16-b1c1-81f29ee13ee8.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025149-e11794a2-f40d-4733-b1a2-353ed3776252.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025387-7f4858aa-264c-4bb9-85fc-b82f8e57f49f.png)
 
 
 ## CAPITULO 8
@@ -370,9 +414,50 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 - para IN se utiliza el divisor de corriente:    
 ![image](https://user-images.githubusercontent.com/93398718/147042093-cf90499b-67d8-4319-b9c8-b7f92ea80f4a.png)  
 
+###  25) Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/93561706/148025440-747666bb-1dc2-4bf6-85ad-0038cd1bad5e.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025476-19178cb9-bb63-4623-bb21-f00a030e08fa.png)
+
+### 27) Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
+
+![image](https://user-images.githubusercontent.com/93561706/148025537-2184e78e-0b6a-4d1a-9e30-aa71e8ffc733.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025546-c8e6f10f-cbc7-4678-b0b5-9e4cebc909c7.png)
 
 
-# VIDEO
+### 29) Aplique el teorema de Norton al circuito de la figura 8-84.
+
+![image](https://user-images.githubusercontent.com/93561706/148025583-3c9bb1bb-8ffe-43f5-b344-a85489663ff4.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025593-02288144-059e-4dda-95f0-5acf3e41deff.png)
+
+### 31)  En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+
+![image](https://user-images.githubusercontent.com/93561706/148025673-054beec5-9fcb-434e-966f-02048614b438.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025682-1c9448ab-06ff-47fa-ad13-bfecf3d9ddb7.png)
+
+### 33) ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+
+![image](https://user-images.githubusercontent.com/93561706/148025719-9ba917e1-e9c8-47a8-be00-6ca3a3374565.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025741-6d266a75-012a-43bb-ab87-0be8c6be2938.png)
+
+### 35) En la figura 8-89, convierta cada red Y en una red delta.
+
+![image](https://user-images.githubusercontent.com/93561706/148025787-fba3c206-418a-4a17-855d-3e314ea72b8e.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025827-5945ae1b-d682-4005-8385-cd1cb5c69ed3.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025844-798108b4-3f4f-41a5-8792-4d7d3e26fe0e.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148025883-5d5e96f4-4cb7-4ce6-b7ed-017b5141403b.png)
+
+
+# VIDEO![Uploading image.png…]()
+
 
 
 
