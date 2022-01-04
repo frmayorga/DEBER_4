@@ -222,12 +222,13 @@ la carga de 47 kilo ohms provocara una menor disminucion de voltaje pues entre m
 
 ![image](https://user-images.githubusercontent.com/93561706/148024204-8897d7ab-b86e-48ce-8b12-fe0d021a9a70.png)
 
+![image](https://user-images.githubusercontent.com/93561706/148066251-f35e9d43-80f7-482e-9f23-90474ac8b491.png)
+
 ### 45) Repita el problema 44 para las siguientes condiciones a) SW3 y SW4 conectados a +12 V, SW1 y SW2 a tierra, b) SW3 y SW1 conectados a +12 V, SW2 y SW4 a tierra, c) Todos los interruptores conectados a +12 V
 
 ![image](https://user-images.githubusercontent.com/93561706/148024329-9a3fbab6-6bf6-4482-b7b8-9b13252b571a.png)
 
 ![image](https://user-images.githubusercontent.com/93561706/148066092-319fe938-2272-4f0f-96b0-069a37e38001.png)
-
 
 ### 47) Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ, a 120,060 Ω, y los medidores a compresión disminuyen su resistencia en 60 mΩ, a 119.940 Ω, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga
 
