@@ -461,7 +461,7 @@ Siendo de 1.58 mA la corriente que pasa por R3.
 # VIDEO![Uploading image.png…]()
 
 
-
+https://youtu.be/1crri6ai5C8
 
 # CONCLUSIONES
 
